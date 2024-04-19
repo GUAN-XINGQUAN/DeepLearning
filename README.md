@@ -4,6 +4,6 @@ This repo serves as a summary of deep learning implementations and notes. The co
 
 ## Content of Structure
 
-- [Revisit Logistic Regression from the Neural Network Perspective](./00_revisit_logistic_regression.ipynb)
-- [Simple Neural Network for Classification](./01_simple_neural_network_for_classification.ipynb)
-- [Multilayer Neural Network Breakdown by Components](./02_multilayer_neural_network_breakdown.ipynb)
+- [Revisit Logistic Regression from the Neural Network Perspective](./01_revisit_logistic_regression.ipynb)
+- [Simple Neural Network for Classification](./02_simple_neural_network_for_classification.ipynb)
+- [Multilayer Neural Network Breakdown by Components](./03_multilayer_neural_network_breakdown.ipynb)
