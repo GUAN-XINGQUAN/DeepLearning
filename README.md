@@ -8,3 +8,4 @@ This repo serves as a summary of deep learning implementations and notes. The co
 - [Simple Neural Network for Classification](./02_simple_neural_network_for_classification.ipynb)
 - [Multilayer Neural Network Breakdown by Components](./03_multilayer_neural_network_breakdown.ipynb)
 - [Multilayer Neural Network Image Classification](./04_multilayer_neural_network_image_classification.ipynb)
+- [Neural Network Parameter Initialization](./05_neural_network_parameter_initialization.ipynb)
