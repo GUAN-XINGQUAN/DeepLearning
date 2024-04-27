@@ -9,3 +9,4 @@ This repo serves as a summary of deep learning implementations and notes. The co
 - [Multilayer Neural Network Breakdown by Components](./03_multilayer_neural_network_breakdown.ipynb)
 - [Multilayer Neural Network Image Classification](./04_multilayer_neural_network_image_classification.ipynb)
 - [Neural Network Parameter Initialization](./05_neural_network_parameter_initialization.ipynb)
+- [Neural Network Regularization and Dropout](./06_neural_network_regularization_dropout.ipynb)
