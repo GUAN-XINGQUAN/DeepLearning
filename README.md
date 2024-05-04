@@ -10,3 +10,5 @@ This repo serves as a summary of deep learning implementations and notes. The co
 - [Multilayer Neural Network Image Classification](./04_multilayer_neural_network_image_classification.ipynb)
 - [Neural Network Parameter Initialization](./05_neural_network_parameter_initialization.ipynb)
 - [Neural Network Regularization and Dropout](./06_neural_network_regularization_dropout.ipynb)
+- [Neural Network Gradient Check](./07_neural_network_gradient_check.ipynb)
+- [Optimization Algorithms](./08_optimization_algorithms.ipynb)
