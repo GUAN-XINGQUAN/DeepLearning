@@ -12,3 +12,4 @@ This repo serves as a summary of deep learning implementations and notes. The co
 - [Neural Network Regularization and Dropout](./06_neural_network_regularization_dropout.ipynb)
 - [Neural Network Gradient Check](./07_neural_network_gradient_check.ipynb)
 - [Optimization Algorithms](./08_optimization_algorithms.ipynb)
+- [Graph Neural Network](./20_graph_neural_network_fundamental_practice.ipynb)
